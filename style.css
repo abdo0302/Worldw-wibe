@@ -8,12 +8,10 @@
     -ms-user-select: none; /* IE 10 and IE 11 */
     user-select: none; /* Standard syntax */
 }
-
 body{
     font-family: "Poppins", sans-serif;
     color: white;
 }
-
 a{
     color: white;
     text-decoration: none;
@@ -45,8 +43,6 @@ header .header{
     display: none;
     
 }
-
-
 .header .logo{
     color: white;
     text-decoration: none;
